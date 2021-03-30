@@ -56,7 +56,7 @@ $ # Same for teachers as well
 ### General steps to create Chalice project and deploy them:
 1.  Create virtual environment and install requirements -
 ```shell
-pip install -r requirements.txt
+(venv)$ pip install -r requirements.txt
 ```
 
 2.  Create Chalice project -
